@@ -17,7 +17,9 @@ An interactive Tableau dashboard created to analyze credit card transaction data
 - Transaction trends over time
 - Interactive filters
 - Visual analysis of fraud patterns
+## 📸 Dashboard Preview
 
+![Credit Card Fraud Detection Dashboard](credit-card-fraud-dashboard.png)
 🔗 Tableau Public Dashboard
 
 "View Interactive Dashboard" (https://public.tableau.com/app/profile/n.hema.harshini/viz/creditcarddashboard_17727087910800/Dashboard2)
